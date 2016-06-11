@@ -437,4 +437,5 @@ body {
 p.main {
   text-align: justify;
   text-justify: inter-word;
+  word-spacing: -2px;
 }
