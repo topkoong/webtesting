@@ -1,6 +1,12 @@
 $(document).ready(function(){
-  $("#testjquery").hide();
-  $("button").click(function(){
-      $("#testjquery").toggle(1000);
+  $("#profilejquery").hide();
+  $("#profile").click(function(){
+      $("#profilejquery").toggle(1000);
+  });
+});
+$(document).ready(function(){
+  $("#resumejquery").hide();
+  $("#resume").click(function(){
+      $("#resumejquery").toggle(1000);
   });
 });

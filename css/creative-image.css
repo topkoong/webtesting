@@ -440,3 +440,21 @@ p.main {
   letter-spacing: -1px;
   /*word-spacing: -2px;*/
 }
+p.resumeparagraph {
+  text-align: left;
+  /*text-justify: distribute;*/
+  letter-spacing: -1px;
+  /*word-spacing: -2px;*/
+}
+p.head {
+  font-weight: 600;
+  font-size: 25px;
+}
+p.head-2 {
+  font-weight: 600;
+  font-size: 20px;
+}
+p.head-3 {
+  font-weight: 100;
+  font-size: 15px;
+}
